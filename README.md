@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JS and Webflow.
 - 📫 How to reach me ...
 
-IG - https://instagram.com/stojkebrd?igshid=YmMyMTA2M2Y=
+IG - https://instagram.com/stojkebrd/
 
 DC - stojke.exe#2181
 
